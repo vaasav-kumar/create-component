@@ -1,6 +1,6 @@
 {
   "name": "vue-component-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shortcut method for creating vue files in specific directory structure.",
   "main": "create.js",
   "scripts": {
